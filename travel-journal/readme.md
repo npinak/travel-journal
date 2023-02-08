@@ -1,4 +1,4 @@
-(View Here)[https://candid-custard-215138.netlify.app]
+[View Here](https://candid-custard-215138.netlify.app)
 
 Technologies Used: HTML, CSS, JavaScript, React
 
