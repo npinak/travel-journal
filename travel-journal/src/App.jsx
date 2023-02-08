@@ -7,7 +7,7 @@ import data from './assets/data.js'
 
 function App() {
   const cards = data.map(item => {
-    return (
+    return ( // mapping each entry from data.js into its own card component. 
       <Card
         key={item.id}
         item={item}

@@ -42,8 +42,8 @@ body {
 
 .body-div{
   width: 50%;
-  height: 100%;
-  padding-top: 3%;
+  height: 95%;
+
 }
 
 nav{
@@ -52,17 +52,29 @@ nav{
   width: 100%; 
   align-items: center;
   justify-content: center;
+  margin-top: 5%;
+}
+
+nav img{
+  width:10%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-right: 2%;
 }
 
 .card-list{
 
   background-color: #F5F5F5;
   color: #2B283A;
+  padding-bottom: 5%;
+
 }
 
 .card{
   display:grid;
   grid-template-columns: 1fr 2fr;
+  /* border-bottom: 2px solid gray; */
+
 }
 
 .left-side{
@@ -80,7 +92,9 @@ nav{
   width: 60%;
   height: 75%;
   border-radius: 10px;
+  margin-top: 15%;
 }
+
 
 .right-side{
   background-color: #F5F5F5;
@@ -127,3 +141,4 @@ nav{
   margin: 0 auto;
   padding: 4px 0px;
 }
+

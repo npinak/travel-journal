@@ -18,5 +18,15 @@ export default [
         endDate: "23 July, 2023",
         description:"The Joranda Falls is a waterfall in the Simlipal National Park near Dhanaulti in Mayurbhanj district in the Indian state of Odisha.",
         imageUrl:"https://images.unsplash.com/photo-1606197503045-2dfbc18922e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        id: 3,
+        title: "Los Angeles",
+        location: "U.S.A.",
+        googleMapsUrl: "https://goo.gl/maps/wusChszvTaXAnXhe9",
+        startDate: "22 February, 2018",
+        endDate: "1 March, 2018",
+        description: "Los Angeles often referred to by its initials L.A., is the commercial, financial, and cultural center of Southern California.",
+        imageUrl: "https://images.unsplash.com/photo-1544413660-299165566b1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
     }
 ]
